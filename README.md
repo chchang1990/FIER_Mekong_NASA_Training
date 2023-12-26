@@ -1,7 +1,7 @@
 # FIER_Mekong
 Forecasting Inundation Extents using REOF analysis (FIER) in the Mekong River Floodplains (FIER-Mekong) and its application in forecasting flood-induced rice damages.
 Please cite <a href="https://www.sciencedirect.com/science/article/pii/S1364815223000294">Chang et al., 2023</a>. 
-We have also developed an easy to use <a href="https://satellitehydrology-fier-mekong-demo-6d5b1u.streamlit.app/">FIER-Mekong WebApp</a>, which operationally generates up to 18-day lead times of inundation forecasts
+We have also developed an easy to use <a href="https://fier-mekong.streamlit.app/">FIER-Mekong WebApp</a>, which operationally generates up to 18-day lead times of inundation forecasts
 
 Here are the training materials that were used for the NASA SERVIR-SEA Project Training to the stakeholders in the Asian Disaster Preparedness Center (ADPC) in July 2023.
 
